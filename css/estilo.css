@@ -2,6 +2,13 @@
     Empresa: Widmark S.L
     Fecha: 15-10-2021
     Autor: Sergio Matamoros Delgado
+
+    Descripción: Tablero básico de "PROYECPOLY"
+
+
+    Notas: Las clases que heredan de los hijos están añadidas para en un 
+    posible futuro poder ampliar o hacer mejoras a las mismas.
+    Por el momento no tienen ninguna utilidad real.
 */
 
 /**
