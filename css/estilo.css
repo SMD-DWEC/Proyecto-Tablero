@@ -58,11 +58,6 @@ div#top {
 
 div#right {
     float: right;
-
-    flex-flow: row wrap;
-    flex-wrap: wrap;
-    flex-direction: column;
-    justify-content: flex-end;
     background-color: black;
 }
 
@@ -94,11 +89,6 @@ div#right {
 
 div#left {
     float: left;
-
-
-    flex-flow: row wrap;
-    flex-direction: column;
-    justify-content: space-around;
     background-color: black;
 }
 
